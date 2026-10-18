@@ -1,4 +1,4 @@
-//Student Grade Calculator
+//StudentGradeCalculator
 #include <stdio.h>
 
 int main() {
